@@ -62,13 +62,15 @@ The trained model successfully detected and classified traffic signs across 43 c
 
 ---
 
-## 📂 Repository Structure
+```markdown
+📂 Repository Structure
 
 Traffic-Sign-Detection/
-📂 doc/ # Project documentation
+┣ 📂 doc/ # Project documentation
 ┣ 📓 data-preprocessing.ipynb # Scripts for data cleaning, preparation, and augmentation
 ┣ 📓 model-training.ipynb # Scripts for model building, training, and evaluation
-┣ 📄 README.md # Project documentation
+┗ 📄 README.md # Project documentation
+```
 
 ---
 

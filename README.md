@@ -68,6 +68,7 @@ Traffic-Sign-Detection/
 📂 doc/ # Project documentation
 ┣ 📓 data-preprocessing.ipynb # Scripts for data cleaning, preparation, and augmentation
 ┣ 📓 model-training.ipynb # Scripts for model building, training, and evaluation
+┣ 📓 tensorboard-n-heatmap.ipynb # Scripts for visualizing training metrics and interpreting model predictions using Grad-CAM
 ┣ 📄 README.md # Project documentation
 
 ---
@@ -88,3 +89,4 @@ The project can be significantly extended in the following ways:
 - **Kaggle Dataset:** [Traffic Signs Preprocessed Dataset](https://www.kaggle.com/datasets/valentynsichkar/traffic-signs-preprocessed/)
 - **Kaggle Notebook – Data Preprocessing:** [https://www.kaggle.com/code/melisacagilgann/data-preprocessing](https://www.kaggle.com/code/melisacagilgann/data-preprocessing)
 - **Kaggle Notebook – Model Training:** [https://www.kaggle.com/code/melisacagilgann/model-training](https://www.kaggle.com/code/melisacagilgann/model-training)
+- **Kaggle Notebook – Tensorboard and Heatmap:** [https://www.kaggle.com/code/melisacagilgann/tensorboard-and-heatmap](https://www.kaggle.com/code/melisacagilgann/tensorboard-and-heatmap)
